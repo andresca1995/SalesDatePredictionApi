@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{141BC504-8FC3-467D-BBFE-7325A8F09165}|ApiSalesPrediction\\ApiSalesPrediction.csproj|h:\\prueba entrevista\\api\\apisalesprediction\\apisalesprediction\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{141BC504-8FC3-467D-BBFE-7325A8F09165}|ApiSalesPrediction\\ApiSalesPrediction.csproj|solutionrelative:apisalesprediction\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141BC504-8FC3-467D-BBFE-7325A8F09165}|ApiSalesPrediction\\ApiSalesPrediction.csproj|h:\\prueba entrevista\\api\\apisalesprediction\\apisalesprediction\\controllers\\appsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141BC504-8FC3-467D-BBFE-7325A8F09165}|ApiSalesPrediction\\ApiSalesPrediction.csproj|solutionrelative:apisalesprediction\\controllers\\appsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141BC504-8FC3-467D-BBFE-7325A8F09165}|ApiSalesPrediction\\ApiSalesPrediction.csproj|h:\\prueba entrevista\\api\\apisalesprediction\\apisalesprediction\\negocio\\salesnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141BC504-8FC3-467D-BBFE-7325A8F09165}|ApiSalesPrediction\\ApiSalesPrediction.csproj|solutionrelative:apisalesprediction\\negocio\\salesnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141BC504-8FC3-467D-BBFE-7325A8F09165}|ApiSalesPrediction\\ApiSalesPrediction.csproj|h:\\prueba entrevista\\api\\apisalesprediction\\apisalesprediction\\model\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141BC504-8FC3-467D-BBFE-7325A8F09165}|ApiSalesPrediction\\ApiSalesPrediction.csproj|solutionrelative:apisalesprediction\\model\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63D9F78-0D05-419F-9320-FEF6D0C4F6BC}|models\\models.csproj|h:\\prueba entrevista\\api\\apisalesprediction\\models\\models\\sp_get_orders_for_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63D9F78-0D05-419F-9320-FEF6D0C4F6BC}|models\\models.csproj|solutionrelative:models\\models\\sp_get_orders_for_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63D9F78-0D05-419F-9320-FEF6D0C4F6BC}|models\\models.csproj|h:\\prueba entrevista\\api\\apisalesprediction\\models\\models\\sp_get_employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63D9F78-0D05-419F-9320-FEF6D0C4F6BC}|models\\models.csproj|solutionrelative:models\\models\\sp_get_employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141BC504-8FC3-467D-BBFE-7325A8F09165}|ApiSalesPrediction\\ApiSalesPrediction.csproj|h:\\prueba entrevista\\api\\apisalesprediction\\apisalesprediction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141BC504-8FC3-467D-BBFE-7325A8F09165}|ApiSalesPrediction\\ApiSalesPrediction.csproj|solutionrelative:apisalesprediction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141BC504-8FC3-467D-BBFE-7325A8F09165}|ApiSalesPrediction\\ApiSalesPrediction.csproj|h:\\prueba entrevista\\api\\apisalesprediction\\apisalesprediction\\apisalesprediction.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{141BC504-8FC3-467D-BBFE-7325A8F09165}|ApiSalesPrediction\\ApiSalesPrediction.csproj|solutionrelative:apisalesprediction\\apisalesprediction.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63D9F78-0D05-419F-9320-FEF6D0C4F6BC}|models\\models.csproj|h:\\prueba entrevista\\api\\apisalesprediction\\models\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63D9F78-0D05-419F-9320-FEF6D0C4F6BC}|models\\models.csproj|solutionrelative:models\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63D9F78-0D05-419F-9320-FEF6D0C4F6BC}|models\\models.csproj|h:\\prueba entrevista\\api\\apisalesprediction\\models\\models\\sp_get_sales_date_predicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63D9F78-0D05-419F-9320-FEF6D0C4F6BC}|models\\models.csproj|solutionrelative:models\\models\\sp_get_sales_date_predicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sp_get_employees.cs",
+              "DocumentMoniker": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\models\\models\\sp_get_employees.cs",
+              "RelativeDocumentMoniker": "models\\models\\sp_get_employees.cs",
+              "ToolTip": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\models\\models\\sp_get_employees.cs",
+              "RelativeToolTip": "models\\models\\sp_get_employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:44:02.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sp_get_Orders_for_client.cs",
+              "DocumentMoniker": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\models\\models\\sp_get_Orders_for_client.cs",
+              "RelativeDocumentMoniker": "models\\models\\sp_get_Orders_for_client.cs",
+              "ToolTip": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\models\\models\\sp_get_Orders_for_client.cs",
+              "RelativeToolTip": "models\\models\\sp_get_Orders_for_client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:21:53.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "response.cs",
+              "DocumentMoniker": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\ApiSalesPrediction\\model\\response.cs",
+              "RelativeDocumentMoniker": "ApiSalesPrediction\\model\\response.cs",
+              "ToolTip": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\ApiSalesPrediction\\model\\response.cs",
+              "RelativeToolTip": "ApiSalesPrediction\\model\\response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:05:44.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesNegocio.cs",
+              "DocumentMoniker": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\ApiSalesPrediction\\Negocio\\SalesNegocio.cs",
+              "RelativeDocumentMoniker": "ApiSalesPrediction\\Negocio\\SalesNegocio.cs",
+              "ToolTip": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\ApiSalesPrediction\\Negocio\\SalesNegocio.cs",
+              "RelativeToolTip": "ApiSalesPrediction\\Negocio\\SalesNegocio.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:40:07.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsales.cs",
+              "DocumentMoniker": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\ApiSalesPrediction\\Controllers\\appsales.cs",
+              "RelativeDocumentMoniker": "ApiSalesPrediction\\Controllers\\appsales.cs",
+              "ToolTip": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\ApiSalesPrediction\\Controllers\\appsales.cs",
+              "RelativeToolTip": "ApiSalesPrediction\\Controllers\\appsales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:36:08.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\models\\dbcontext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "models\\dbcontext\\AppDbContext.cs",
+              "ToolTip": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\models\\dbcontext\\AppDbContext.cs",
+              "RelativeToolTip": "models\\dbcontext\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:27:33.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sp_get_sales_date_predicion.cs",
+              "DocumentMoniker": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\models\\models\\sp_get_sales_date_predicion.cs",
+              "RelativeDocumentMoniker": "models\\models\\sp_get_sales_date_predicion.cs",
+              "ToolTip": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\models\\models\\sp_get_sales_date_predicion.cs",
+              "RelativeToolTip": "models\\models\\sp_get_sales_date_predicion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:12:24.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiSalesPrediction.http",
+              "DocumentMoniker": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\ApiSalesPrediction\\ApiSalesPrediction.http",
+              "RelativeDocumentMoniker": "ApiSalesPrediction\\ApiSalesPrediction.http",
+              "ToolTip": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\ApiSalesPrediction\\ApiSalesPrediction.http",
+              "RelativeToolTip": "ApiSalesPrediction\\ApiSalesPrediction.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-21T07:09:49.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\ApiSalesPrediction\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiSalesPrediction\\appsettings.json",
+              "ToolTip": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\ApiSalesPrediction\\appsettings.json",
+              "RelativeToolTip": "ApiSalesPrediction\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T07:03:39.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\ApiSalesPrediction\\Program.cs",
+              "RelativeDocumentMoniker": "ApiSalesPrediction\\Program.cs",
+              "ToolTip": "H:\\prueba entrevista\\api\\ApiSalesPrediction\\ApiSalesPrediction\\Program.cs",
+              "RelativeToolTip": "ApiSalesPrediction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:01:42.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
